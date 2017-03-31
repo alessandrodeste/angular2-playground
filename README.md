@@ -22,6 +22,8 @@ This is a simple scaffolding project used to test libraries.
 
 Install and start the [backend services](https://github.com/alessandrodeste/nodejs-playground)
 
+Eventually change the backend services path in: /src/app/_services/config.ts
+
 Install packages
 
 ```bash
@@ -44,15 +46,4 @@ Build the application
 
 ```bash
 ng build -prod
-```
-
-Running unit tests [not jet implemented]
-
-```bash
-ng test
-```
-Running end-to-end tests [not jet implemented]
-
-```bash
-ng e2e
 ```
